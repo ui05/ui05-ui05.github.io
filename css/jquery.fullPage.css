@@ -618,7 +618,8 @@ a:-webkit-any-link2 {
     text-transform: uppercase;
 }
 
-
+.img-logo{width: 70px;}
+.img-logo2{    margin-bottom: 10px;}
 
 .scroll-downs {
   position: absolute;
