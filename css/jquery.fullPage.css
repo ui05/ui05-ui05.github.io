@@ -603,11 +603,11 @@ a:-webkit-any-link2 {
 }
 
 .btn-ltstlk221 a:focus, a:hover {
-    color: #fb5353;
+    color: #000000;
 }
 
 .btn-ltstlk2:hover {
-    color: #fb5353;
+    color: #000000;
 }
 .btn-ltstlk223 {
     font-size: 20px;
@@ -620,7 +620,6 @@ a:-webkit-any-link2 {
 
 .img-logo{width: 70px;}
 .img-logo2{    margin-bottom: 10px;}
-
 .scroll-downs {
   position: absolute;
   top: 0;
