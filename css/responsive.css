@@ -74,7 +74,7 @@ header[role="header"] nav ul > li > a {
 
 	main[role="main-home-wrapper"] article p br{ display:none}
 
-	footer[role="footer"]{ padding:40px 0}
+	footer[role="footer"]{padding:40px 0;font-size: 9px;}
 
 	footer[role="footer"] nav{ padding:15px 0}
 
