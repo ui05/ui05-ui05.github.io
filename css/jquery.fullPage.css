@@ -536,6 +536,7 @@ a:-webkit-any-link2 {
     transition: all .5s ease;
     background-color: #000;
     border-radius: 100px;
+    text-decoration: auto;
 }
 .btn-ltstlk2:hover {
     background-color: #ffd156;
