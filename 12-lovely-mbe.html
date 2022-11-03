@@ -43,7 +43,12 @@ $(function(){
 	$('#dowebok').fullpage({
 		'navigation': true,
    		'scrollingSpeed': 500,
+		 continuousVertical: false
 	});
+	setInterval(function(){
+	        $.fn.fullpage.moveSectionDown();
+	    }, 2500);
+	
 });
 </script>
 </head>
