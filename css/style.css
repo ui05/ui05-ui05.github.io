@@ -310,7 +310,7 @@ header[role="header"] nav #menu-button.open span:nth-child(3) {top: 10px;
 
 main[role="main-home-wrapper"],main[role="main-inner-wrapper"] {padding-bottom: 20px;}
 
-main[role="main-home-wrapper"] article[role="pge-title-content"],main[role="main-inner-wrapper"] article[role="pge-title-content"]{ padding-left:41px}
+main[role="main-home-wrapper"] article[role="pge-title-content"],main[role="main-inner-wrapper"] article[role="pge-title-content"]{ padding-left: 20px;    padding-right: 20px;}
 
 main[role="main-home-wrapper"] article[role="pge-title-content"] header,main[role="main-inner-wrapper"] article[role="pge-title-content"] header{ padding-bottom:2px; padding-top:83px}
 
